@@ -9,7 +9,8 @@ Hospedagem para aprovação interna do e-mail de campanha da TrazCausa Jurídica
 
 | Placeholder | O que é |
 |---|---|
-| `URL_WEBHOOK_AQUI` | URL do webhook da CTA (aparece 2 vezes) |
+| CTA principal | Agenda do Bruno: https://calendar.app.google/dBQj34Qs7K57DCVdA |
+| CTA secundária | Formulário do site: https://trazcausa.com.br/#formulario |
 | `URL_CARD_1_AQUI` | Card de topo, 600px de largura |
 | `URL_CARD_2_AQUI` | Card do case, 600px de largura |
 | `URL_LOGO_AQUI` | Logo da TrazCausa em PNG com fundo transparente |
